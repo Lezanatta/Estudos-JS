@@ -1,0 +1,24 @@
+img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding-right: 25px;
+}
+
+h1{
+    border-bottom-style: inset;
+    margin: 15px 15px 15px 325px;
+}
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    padding: 25px;
+    width: 900px;
+    height: 500px;
+    margin: 25px auto;
+}
+
+body{
+    background-color: rgb(179, 179, 179);
+}

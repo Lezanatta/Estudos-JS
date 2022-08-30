@@ -1,0 +1,26 @@
+img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding-right: 30px;
+    border-radius: 50px;
+}
+
+h1{
+    border-bottom-style: inset;
+    margin: 30px 30px 30px 325px;
+}
+
+body{
+    background-color: azure;
+}
+
+div{
+    border-radius: 50px;
+    background-color: rgb(219, 227, 235);
+    width: 900px;
+    height: 500px;
+    line-height: 2em;
+    padding: 30px 25px 30px 25px;
+    margin: 30px auto 30px auto;
+}

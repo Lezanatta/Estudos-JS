@@ -1,0 +1,33 @@
+img{
+    float: left;
+    width: 300px;
+    height: 400px;
+    padding-right: 25px;
+}
+
+body{
+    background-color: rgb(146, 150, 150);
+}
+
+div{
+    width: 900px;
+    height: 550px;
+    margin: 25px auto;
+    padding: 25px;
+    border-radius: 20px;
+    background-color: rgb(212, 210, 208);
+}
+
+h1{
+    border-bottom-style: inset;
+    margin: 25px 25px 25px 325px;
+}
+
+.escondido{
+    display: none;
+}
+
+#inDica{
+    font-style: italic;
+}
+

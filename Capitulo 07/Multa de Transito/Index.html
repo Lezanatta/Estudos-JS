@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Trânsito</title>
+        <meta charset="utf-8" lang="pt-br">
+        <link rel="stylesheet" href="Css/Estilo.css">
+    </head>
+    <body>
+       <div>
+            <img src="Imagens/exerc.jpg" alt="Imagem de um computador">
+            <form>
+                <h1>Multa de Trânsito</h1>
+                <p>
+                    Data da inflação:
+                    <input type="date" id="inData" autofocus required>
+                </p>
+                <p>
+                    Valor da Multa: R$
+                    <input type="number" id="inValor" required step="0.01">
+                </p>
+                <input type="submit" value="Calcular data limite e valor com desconto" id="btVerifica">
+                <pre></pre>
+            </form>
+       </div>
+       <script src="Js/ex07_11.js"></script>
+    </body>
+</html>

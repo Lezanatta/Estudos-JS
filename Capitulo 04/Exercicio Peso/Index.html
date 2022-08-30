@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="Css/Estilo.css">
+        <title>Exercicio Peso</title>
+    </head>
+    <body>
+        <div>
+            <form>
+            <img src="Imagens/Balança.jpg" class="imagem-topo">
+                <h1>programa Cálculo do peso ideal</h1>
+                <p>
+                    Nome:
+                    <input type="text" id="inNome">
+                </p>
+                <p>
+                    Sexo:
+                    <input type="radio" name="sexo" id="inMasculino" required>Masculino
+                    <input type="radio" name="sexo" id="inFeminino" required>Feminino
+                </p>
+                <p>
+                    Altura:
+                    <input type="number" id="inAltura" min="0" step="0.01">
+                </p>
+                <input type="submit" value="Calcular Peso ideal">
+                <input type="reset" value="limpar campos">
+            </form>
+            <h3></h3>
+        </div>
+
+        <script src="js/Ex4_02.js"></script>
+    </body>
+</html>

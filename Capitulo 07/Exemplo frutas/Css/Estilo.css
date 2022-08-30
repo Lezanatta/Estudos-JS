@@ -1,0 +1,13 @@
+img{float:left}
+
+h1{
+    border-bottom-style: inset;
+}
+
+.entre-letras{
+    letter-spacing: 0.5em;
+}
+
+.alinha-direita{
+    text-align: right;
+}

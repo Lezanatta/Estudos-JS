@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contas</title>
+        <meta charset="utf-8" lang="pt-br">
+        <link rel="stylesheet" href="Css/Estilo.css">
+    </head>
+    <body>
+        <div>
+            <img src="Imagens/cofrinho.png" alt="Imagem de um cofrinho">
+            <form>
+                <h1>Programa Contas do Mês</h1>
+                <p>
+                    Descrição da conta:
+                    <input type="text" id="inDescricao">
+                </p>
+                <p>
+                    Valor a Pagar R$: 
+                    <input type="number" id="inValor" step="0.01">
+                </p>
+                <input type="submit" value="Registrar Conta">
+            </form>
+
+            <pre id="inContas"></pre>
+            <pre id="inValorTotal"></pre>
+
+            <script src="Js/ex05_03.js"></script>
+        </div>
+    </body>
+</html>

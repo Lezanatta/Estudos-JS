@@ -1,0 +1,31 @@
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    padding-right: 25px;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(109, 107, 104);
+}
+
+h1{
+    border-bottom-style: inset;
+}
+
+div{
+    width: 900px;
+    height: 550px;
+    margin: 25px auto;
+    padding: 25px;
+    background-color: rgb(172, 163, 163);
+}
+
+.oculta{
+    display: none;
+}
+
+.exibe{
+    display: inline-block;
+}

@@ -1,0 +1,23 @@
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    padding-right: 25px;
+}
+body{
+    background-color: rgb(164, 165, 167);
+}
+div{
+    border-radius: 30px;
+    width: 900px;
+    height: 500px;
+    margin: 25px auto;
+    background-color: rgb(212, 195, 195);
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+h1{
+    border-bottom-style: inset;
+    margin: 25px 25px 25px 325px;
+}

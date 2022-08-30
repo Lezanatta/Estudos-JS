@@ -1,0 +1,33 @@
+img{
+    float: left;
+    padding-right: 25px;
+}
+
+h1{
+    border-bottom-style: inset;
+}
+
+body{
+    background-color: rgb(170, 170, 138);
+}
+
+div{
+    margin: 25px auto;
+    width: 900px;
+    height: 620px;
+    border-radius: 20px;
+    background-color: rgb(149, 177, 202);
+}
+
+#btCrip, #btDescrip{
+    background-color: rgb(73, 107, 107);
+    border-radius: 25px;
+    color: white;
+    height: 30px;
+    margin-right: 20px;
+}
+#btCrip:hover, #btDescrip:hover{
+    transition: .9s;
+    background-color: brown;
+    cursor:pointer;
+}

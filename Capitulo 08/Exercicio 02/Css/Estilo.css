@@ -1,0 +1,47 @@
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    padding-right: 15px;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(140, 144, 148);
+}
+
+h1{
+    border-bottom-style: inset;
+}
+
+div{
+    background-color: rgb(201, 198, 193);
+    padding: 25px;
+    margin: 25px auto;
+    height: 500px;
+    box-sizing: border-box;
+}
+
+#btAdicionar{
+    height: 26px;
+    border-radius: 15px;
+    background-color: rgb(177, 216, 216);
+    color: rgb(48, 46, 46);
+    cursor: pointer;
+}
+
+#btAdicionar:hover{
+    transition: 1s;
+    background-color: rgb(58, 55, 55);
+    color:white;
+}
+
+.oculta{
+    display: none;
+}
+
+span{
+    padding-left: 100px;
+}
+
+.exibe { display: inline; }

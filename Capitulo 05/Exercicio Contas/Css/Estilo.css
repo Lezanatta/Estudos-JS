@@ -1,0 +1,30 @@
+img{
+    width: 300px;
+    height: 450px;
+    float: left;
+    padding-right: 25px;
+}
+
+body{
+    background-color: rgb(194, 199, 197);
+}
+
+form{
+    line-height: 2em;
+}
+
+div{
+    margin: 35px auto;
+    width: 900px;
+    height: 500px;
+    background-color: rgb(70, 57, 57);
+    box-sizing: border-box;
+    padding: 25px;
+    color: white;
+    
+}
+
+h1{
+    border-bottom-style: inset;
+    margin: 0 35px 35px 325px;
+}

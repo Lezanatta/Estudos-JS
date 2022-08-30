@@ -1,0 +1,29 @@
+img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding-right: 25px;
+}
+
+h1{
+    border-bottom-style: inset;
+    margin: 0 25px 0 325px;
+}
+
+h3{
+    line-height: 1;
+}
+
+body{
+    background-color: rgb(179, 179, 179);
+}
+
+div{
+    line-height: 2.3em;
+    width: 900px;
+    height: 500px;
+    margin: 30px auto 30px auto;
+    padding: 25px;
+    background-color: rgb(196, 196, 196);
+    border-radius: 15px;
+}

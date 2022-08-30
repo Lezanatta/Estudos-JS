@@ -1,0 +1,33 @@
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    padding-right:25px;
+}
+
+body{
+    background-color: rgb(96, 98, 100);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    border-bottom-style: inset;
+}
+
+div{
+    width: 900px;
+    height: 600px;
+    background-color: rgb(146, 142, 137);
+    margin: 25px auto;
+    padding: 25px;
+    box-sizing: border-box;
+}
+h3{
+    font-size: 16px;
+    font-style: normal;
+}
+
+.hifen-personalizado{
+    font-size: 16px;
+    line-height: 2em;
+}

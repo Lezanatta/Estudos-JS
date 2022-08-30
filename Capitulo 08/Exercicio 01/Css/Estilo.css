@@ -1,0 +1,40 @@
+img{
+    float: left;
+    width: 350px;
+    padding-right: 25px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(146, 141, 134);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+
+    width: 900px;
+    height: 600px;
+    margin: 25px auto;
+    padding: 25px;
+    background-color: rgb(173, 184, 194);
+    border-radius: 20px;
+}
+
+h1{
+    border-bottom-style: inset;
+}
+
+#btClassificar{
+    background-color: rgb(58, 90, 90);
+    color: white;
+    font-size: 17px;
+    border-radius: 20px;
+}
+
+#btClassificar:hover{
+    transition: 1s;
+    color: rgb(56, 45, 45);
+    background-color: rgb(124, 194, 194);
+    cursor: pointer;
+}
+
